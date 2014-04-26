@@ -1,0 +1,4 @@
+name: LightningishDart
+description: A web application
+dependencies:
+  browser: any
